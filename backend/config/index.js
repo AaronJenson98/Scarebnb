@@ -8,4 +8,5 @@ module.exports = {
       expiresIn: process.env.JWT_EXPIRES_IN
     }
   };
+  //end
   
