@@ -115,4 +115,3 @@ module.exports = (sequelize, DataTypes) => {
   );
   return Spot;
 };
-//end
